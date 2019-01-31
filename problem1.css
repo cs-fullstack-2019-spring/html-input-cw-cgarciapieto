@@ -1,0 +1,46 @@
+/*body{*/
+    /*width: 100%;*/
+    /*text-align: center;*/
+    /*background: blue;*/
+
+/*}*/
+
+/*header{*/
+    /*margin-top: 10%;*/
+/*}*/
+
+/*section{*/
+    /*margin-bottom: 24%;*/
+
+/*}*/
+/**{*/
+    /*border: 5px  red;*/
+/*}*/
+
+/*footer{*/
+    /*margin-top: 24px;*/
+/*}*/
+
+/*input{*/
+    /*text-align: center;*/
+    /*background-color: lightgray;*/
+/*}*/
+
+div{
+    margin-left: 25;
+}
+
+
+label, input {
+    display: block;
+}
+
+label {
+    margin-bottom: 20px;
+}
+
+body
+{
+    margin: 15% 25%;
+    text-align: center;
+}
