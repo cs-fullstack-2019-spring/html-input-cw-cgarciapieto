@@ -26,9 +26,7 @@
     /*background-color: lightgray;*/
 /*}*/
 
-div{
-    margin-left: 25;
-}
+
 
 
 label, input {
@@ -41,6 +39,5 @@ label {
 
 body
 {
-    margin: 15% 25%;
-    text-align: center;
+
 }
